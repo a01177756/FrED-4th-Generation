@@ -15,7 +15,10 @@
 # FrED Factory 4th Generation
 
   ## FrED Factory Challenge powered by MIT
-Our academic objective is to equip students with the skills and knowledge necessary to develop an innovative environment for the production of mechatronic products.
-Through this course, we will teach students how to design layouts, integrate collaborative robots, define the optimal interaction between robots and humans, and select the proper tooling or grippers needed for each station.
-By bringing a real industrial application to the lab, students will have the opportunity to gain hands-on experience and develop practical solutions to the challenges of modern manufacturing.
+The challenge is to build a production line where you'll work alongside collaborative robots, program PLCs, HMIs, sensors, and actuators. Your team will be responsible for a part of the manufacturing line where the entire class will ultimately come together to create a FrED device. 
+We will produce 5 FrED devices and all of the must have some testing!
+
+Get ready to embark on an innovative and exciting manufacturing journey with cutting-edge technology!
+
+
 
